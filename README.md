@@ -1,5 +1,11 @@
-# hello world
+# Hello World!
 Demonstrates a Hello World app for Firefox OS that is installable
+
+# Demo
+
+Visit [http://samuelskanberg.github.io/hello-world/](http://samuelskanberg.github.io/hello-world/)
+
+# More docs
 
 Please see 
 
