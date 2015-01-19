@@ -3,7 +3,7 @@
   "description": "Installable Firefox OS app",
   "launch_path": "/hello-world/index.html",
   "icons": {
-    "128": "/hello-world/icons/icon-128.png"
+    "128": "/hello-world/icons/icon128x128.png"
   },
   "developer": {
     "name": "Samuel Skanberg",
